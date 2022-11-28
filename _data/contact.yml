@@ -1,0 +1,14 @@
+location:
+  address: Shop G07/838 Collins St, Docklands VIC 3008
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.691141584282!2d144.9450128!3d-37.8207028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65dc1f4e314e1%3A0x2858f25e663549ca!2sCharlie%20Bit%20Me%20Cafe!5e0!3m2!1sen!2sau!4v1669618974159!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/charliebitmecafe/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:0434 875 825
